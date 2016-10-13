@@ -1,6 +1,6 @@
 Copyright (c)
     2017 by The University of Delaware
-    Contributors: Travis Johnston
+    Contributors: Michael Wyatt
     Affiliation: Global Computing Laboratory, Michela Taufer PI
     Url: http://gcl.cis.udel.edu/, https://github.com/TauferLab
 
