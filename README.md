@@ -28,4 +28,4 @@ with the bash script located at `./src/run.sh`
 # Data
 
 1 Year of NHANES data is in `./data/`.  This data and more years of NHANES data
-can be downloaded from the (CDC website)[https://www.cdc.gov/nchs/tutorials/nhanes/Preparing/Download/intro.htm]
+can be downloaded from https://www.cdc.gov/nchs/tutorials/nhanes/Preparing/Download/intro.htm
