@@ -22,8 +22,8 @@
 ##            M. Wyatt, T. Johnston, M. Papas, and M. Taufer.  Development of a
 ##            Scalable Method for Creating Food Groups Using the NHANES Dataset
 ##            and MapReduce.  In Proceedings of the ACM Bioinformatics and
-##            Computational Biology Conference (BCB), pp. 1 – 10. Seattle, WA,
-##            USA. October 2 – 4, 2016.
+##            Computational Biology Conference (BCB), pp. 1 - 10. Seattle, WA,
+##            USA. October 2 - 4, 2016.
 ##
 ##    4.  Permission of the PI must be obtained before this software is used
 ##    for commercial purposes.  (Contact: taufer@acm.org)
