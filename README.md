@@ -23,9 +23,14 @@ data
 # Running
 
 To run the code, you will need Apache Spark installed.  You can run the code
-with the bash script located at `./src/run.sh`
+with the bash script located at `./src/run.sh`.  This will create several new
+files and directories in the `./data/` directory.
 
 # Data
 
-1 Year of NHANES data is in `./data/`.  This data and more years of NHANES data
-can be downloaded from https://www.cdc.gov/nchs/tutorials/nhanes/Preparing/Download/intro.htm
+1 Year of NHANES data is in `./data/raw`.  This data and more years of NHANES
+data can be downloaded from
+https://www.cdc.gov/nchs/tutorials/nhanes/Preparing/Download/intro.htm
+
+The file `./data/features.txt` contains a list of features which are to be
+extracted from the NHANES dietary data.
