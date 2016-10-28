@@ -36,7 +36,7 @@ into a `pyspark` session, do: `sc.pickleFile("./data/processed")`.
 # Data
 1 Year of NHANES data is in `./data/raw`.  This data and more years of NHANES
 data can be downloaded from
-https://www.cdc.gov/nchs/tutorials/nhanes/Preparing/Download/intro.htm
+http://www.cdc.gov/nchs/nhanes/nhanes_questionnaires.htm
 
 The file `./data/features.txt` contains a list of features which are to be
 extracted from the NHANES dietary data.
