@@ -13,3 +13,6 @@ spark-submit preprocess.py -d ../data/raw/ -v -f ../data/features.txt -o ../data
 # DBSCAN has 3 options to change, epsilon and minpts (-e and -p) as well as a
 # distance metric, which is currently limited to just "euclidean" or "cosine"
 spark-submit cluster.py -d ../data/processed -o ../data/cluster -e 1 -p 4 -m euclidean
+
+# Perform cluster analysis
+spark-submit cluster_analysis.py
